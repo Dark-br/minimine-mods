@@ -2,7 +2,7 @@
 
 ### Onde fica os mods no Minimine?
 
-Os mods do Minimine ficam na pasta `Android/media/com.minimine/mods/`.Os mods são separados por pastas.
+Os mods do Minimine ficam na pasta `Android/media/com.minimine/MiniMine/mods/`.Os mods são separados por pastas.
 
 ```text
 mods/
