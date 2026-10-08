@@ -6,6 +6,12 @@ Os itens são aqueles objetos que ficam em seu inventário e tem uma função ti
 
 É bem simples! Cada item é um arquivo **json** separado.
 
+Primeiro passo: Defina a pastas dos itens no `info.json`. Crie a pasta dos itens com nome que você colocou.
+
+Segundo passo: Dentro da pasta,por exemplo,"Itens" você criar um arquivo **json** com nome do item
+
+`Itens/itemexemplo.json`
+
 | Nome | Função |
 |---|---|
 | nome | Define o nome do item para jogo. |
